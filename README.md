@@ -17,9 +17,12 @@ The Business Questions are as follows:
 **Q6. Calculate the percentage contribution of each player's price to their team's total spending.**
 
 **Q7. Classify Players as 'High', 'Medium', or 'Low' priced based on the following rules:**
-  **High: Price > 15 Crore**
-  **Medium: Price between 5 crore and 15 Crore**
-  **Low: Price < 5 Crore**
+    **High: Price > 15 Crore**
+  
+    **Medium: Price between 5 crore and 15 Crore**
+  
+    **Low: Price < 5 Crore**
+  
   **Find out the number of players in each bucket**
 
 **Q8. Find the average price of Indian Players and compare it with overseas players using a subquery**
